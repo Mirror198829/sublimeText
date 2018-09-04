@@ -28,10 +28,13 @@
 	]
 }
 ```
-### vue代码高亮
+### Vue Syntax Highlight
+vue代码高亮
 ``` javascript
 ctl+shift+p
 package install packages
 Vue Syntax Highlight 
 //安装成功后，重新打开vue文件（如果你之前开了vue文件，一定要关闭重新打开才会变为高亮)
 ```
+### BracketHighlighter
+类似于代码匹配，可以匹配括号，引号等符号内的范围
