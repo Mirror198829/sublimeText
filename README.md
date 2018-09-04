@@ -1,4 +1,4 @@
-# sublimeText
+# sublimeText 3
 ### sublimeText3（中文版）换行无法自动缩进的问题
 解决方案：
 首选项->按键绑定 用户(preferences-key binding-user):输入以下内容
@@ -27,4 +27,11 @@
 	    { "key": "following_text", "operator": "regex_match", "operand": "^$", "match_all": true }
 	]
 }
+```
+### vue代码高亮
+``` javascript
+ctl+shift+p
+package install packages
+Vue Syntax Highlight 
+//安装成功后，重新打开vue文件（如果你之前开了vue文件，一定要关闭重新打开才会变为高亮)
 ```
