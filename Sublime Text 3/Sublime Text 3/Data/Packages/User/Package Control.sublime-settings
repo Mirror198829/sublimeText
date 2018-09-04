@@ -1,0 +1,53 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSScomb",
+		"CTags",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"IMESupport",
+		"JsFormat",
+		"JSON Key-Value",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeServer",
+		"Terminal",
+		"Theme - Soda",
+		"TypeSnippets",
+		"Typewriter",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"ZZZ"
+	]
+}
