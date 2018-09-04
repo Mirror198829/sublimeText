@@ -38,3 +38,5 @@ Vue Syntax Highlight
 ```
 ### BracketHighlighter
 类似于代码匹配，可以匹配括号，引号等符号内的范围
+### AutoFileName
+快速帮助你在文件中写路径
