@@ -42,3 +42,5 @@ Vue Syntax Highlight
 快速帮助你在文件中写路径
 ### HTML-CSS-JS Prettify
 全能序列化
+### less
+高亮less代码
