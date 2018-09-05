@@ -44,3 +44,5 @@ Vue Syntax Highlight
 全能序列化
 ### less
 高亮less代码
+### All autocomplete
+帮助查找css选择器对应的名称
