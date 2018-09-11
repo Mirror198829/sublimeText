@@ -46,3 +46,5 @@ Vue Syntax Highlight
 高亮less代码
 ### All autocomplete
 帮助查找css选择器对应的名称
+### DocBlockr
+用于自动注释
