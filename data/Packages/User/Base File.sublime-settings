@@ -1,0 +1,8 @@
+{
+    "jsdocs_extra_tags":[
+        "This is a cool function",
+        "@Author liukai",
+        "@DateTime {{date}}"
+    ],
+    "jsdocs_function_description": false
+}
